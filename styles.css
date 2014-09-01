@@ -1,0 +1,244 @@
+/* roba di Csss*/
+
+
+
+
+
+
+
+#background
+
+{
+
+	width:800px;
+
+	height:800px;
+
+	margin:0px auto;s
+
+	background-color:#F3F2ED;
+
+
+
+}
+
+#logo
+
+{
+
+	width:200px;
+
+	height:200px;	
+
+	position:relative;	
+
+	float:left;
+
+background-color:#BFBD93;	
+
+
+
+}
+
+#bar
+
+{
+
+	width:600px;
+
+	height:100px;
+
+	position :relative;
+
+	float:right;
+
+background-color:#CCC8B3;
+
+
+
+}
+
+#textadd
+
+{
+
+	width:600px;
+
+	height:700px;
+
+	position :relative;
+
+	float:right;
+
+   background-color:#FFFFFF;
+
+
+
+}
+
+#admain
+
+{
+
+	width:600px;
+
+	height:100px;
+
+	position :relative;
+
+	float:left;
+
+background-color:#CCC8B3;
+border-style:solid;
+border-width:thin;
+border-color:#666;
+
+
+
+}
+
+#ad_wrapper
+{
+	width:400px;
+
+	height:600px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+	
+	left: 100px;
+	
+	top: 100px;
+
+}	
+
+
+#centeradd
+
+{
+
+	width:300px;
+
+	height:400px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+
+    float:left;
+
+}	
+
+#admain_facebook
+{
+	width:300px;
+
+	height:50px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+	
+
+}	
+
+#admain_adbar
+{
+	width:50px;
+
+	height:400px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+	
+	 float:right;
+
+}	
+
+#inser_linear
+{
+
+	width:100px;
+
+	height:40px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+
+        left: 0px;
+
+        top: 0px;
+
+}		
+#insert_multiline
+{
+
+	width:300px;
+
+	height:200px;
+
+	position :relative;
+
+	background-color:#CCC8B3;
+
+        left: 30px;
+
+        top: 50px;
+
+}	
+#admain_text
+{
+	width:400px;
+
+	height:99px;
+
+	position :relative;
+
+	float:left;
+
+background-color:#CCC8B3;
+border-style:solid;
+border-width:thin;
+border-color:#666;
+	
+	}
+	
+	#admain_map
+{
+	width:300px;
+
+	height:200px;
+
+	position :relative;
+
+	float:right;
+
+background-color:#CCC8B3;
+
+	top: 50px;
+
+	
+	}
+	#admain_image
+{
+	width:100px;
+	height:99px;
+	position :relative;
+	float:right;
+	background-color:#CCC8B3;
+	border-style:solid;
+	border-width:thin;
+	border-color:#666;
+	overflow: hidden;
+	
+	}
+////image magnification stuff/////
+#picture {width:100px; height: 250px; background-color:#ffffff;}
+#picture a.small, #picture a.small:visited { display:block; width:100px; height:100px; text-decoration:none; background:#ffffff; top:0; left:0; border:0;}
+#picture a img {border:0;}
+#picture a.small:hover {text-decoration:none; background-color:#000000; color:#000000;}
+#picture a .large {display:block; position:absolute; width:0; height:0; border:0; top:0; left:0;}
+#picture a.small:hover .large {display:block; position:absolute; top: 90px; left:150px; width:200px; height:200px; }	
